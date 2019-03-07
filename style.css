@@ -1,0 +1,22 @@
+/*
+Theme name: Child of clubfood
+Description: clubfood child theme
+Author: Amanda Skaarup
+Template: clubfood
+Version: 1.0.0
+Text domain: clubfood child
+*/
+
+h1{
+	font-family:'Merriweather', serif;
+	font-style: italic;
+	font-size: 55px;
+}
+
+.navbar-brand .site-title {
+	font-family: 'Merriweather', serif;
+}
+
+.sidebar {
+	display: none;
+}
