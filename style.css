@@ -13,10 +13,26 @@ h1{
 	font-size: 55px;
 }
 
+h3{
+	font-family:'Merriweather', serif;
+	font-style: oblique;
+	font-size: 40px;
+}
+
 .navbar-brand .site-title {
 	font-family: 'Merriweather', serif;
 }
 
 .sidebar {
 	display: none;
+}
+
+body {
+	font-family: 'Merriweather', serif;
+}
+
+img {
+    vertical-align: top;
+    border-style: none;
+	width: 200px;
 }
